@@ -16,8 +16,8 @@ Outside work I design and build 8-bit computers, and write about them as [Painfu
 
 ## Certinia
 
-- [Q&A: Stephen Willcock talks Apex Log Analyzer and making developers' lives easier](https://certinia.com/blog/qa-stephen-willcock-talks-apex-log-analyzer-and-making-developers-lives-easier)
-- [Employee Spotlight: Stephen Willcock chats development innovation, the Salesforce platform, and having his dream job](https://certinia.com/blog/employee-spotlight-stephen-willcock-chats-development-innovation-salesforce-platform-dream-job)
+- [Q&A: Stephen Willcock talks Apex Log Analyzer and making developers' lives easier](https://web.archive.org/web/20240421172447/https://certinia.com/blog/qa-stephen-willcock-talks-apex-log-analyzer-and-making-developers-lives-easier/) (archived)
+- [Employee Spotlight: Stephen Willcock chats development innovation, the Salesforce platform, and having his dream job](https://web.archive.org/web/20240421175957/https://certinia.com/blog/employee-spotlight-stephen-willcock-chats-development-innovation-salesforce-platform-dream-job/) (archived)
 
 ## Salesforce development
 

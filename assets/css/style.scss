@@ -34,3 +34,9 @@ a {
   color: #ffc84a;
   text-shadow: 0 0 5px rgba(255, 176, 0, 0.5);
 }
+
+// ">" text bullets in the body text colour, in place of the theme's green ">>" bullet image
+ul li {
+  list-style-image: none;
+  list-style-type: "> ";
+}

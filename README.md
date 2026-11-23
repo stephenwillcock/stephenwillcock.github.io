@@ -16,18 +16,17 @@ Outside work I design and build 8-bit computers, and write about them as [Painfu
 
 ## Certinia
 
-- [Q&A: Stephen Willcock talks Apex Log Analyzer and making developers' lives easier](https://web.archive.org/web/20240421172447/https://certinia.com/blog/qa-stephen-willcock-talks-apex-log-analyzer-and-making-developers-lives-easier/) (archived)
-- [Employee Spotlight: Stephen Willcock chats development innovation, the Salesforce platform, and having his dream job](https://web.archive.org/web/20240421175957/https://certinia.com/blog/employee-spotlight-stephen-willcock-chats-development-innovation-salesforce-platform-dream-job/) (archived)
+- [Q&A: Stephen Willcock talks Apex Log Analyzer and making developers' lives easier](certinia-apex-log-analyzer-qa.md), 2021
+- [Employee Spotlight: Stephen Willcock chats development innovation, the Salesforce platform, and having his dream job](certinia-employee-spotlight.md), 2018
 
 ## Salesforce development
 
-- [github.com/stephenwillcock](https://github.com/stephenwillcock) - Salesforce Apex libraries and tools
 - [foobarforce.wordpress.com](https://foobarforce.wordpress.com/) - my earlier blog on Salesforce development
 
 ## Electronics
 
-[painfuldiodes.com](https://painfuldiodes.com) - my 8-bit computer projects
+- [painfuldiodes.com](https://painfuldiodes.com) - my 8-bit computer projects
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/stephenwillcock/)
+- [LinkedIn](https://www.linkedin.com/in/stephenwillcock/)

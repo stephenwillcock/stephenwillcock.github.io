@@ -6,12 +6,11 @@ Outside work I design and build 8-bit computers, and write about them as [Painfu
 
 ## Career
 
-- **Certinia** 2009 - present
-  - Vice President and Chief Architect, 2021 - present
-  - Chief Architect, 2018 - 2021
-  - Director, Product Innovation, 2012 - 2018
-  - Technical Architect, 2009 - 2012
-- **CODA**, 2007 - 2009 - Force.com and Java developer, financial accounting applications
+- **Certinia**, 2021 - present - Vice President and Chief Architect
+- **Certinia**, 2018 - 2021 - Chief Architect
+- **Certinia**, 2012 - 2018 - Director, Product Innovation
+- **Certinia**, 2009 - 2012 - Technical Architect
+- **CODA**, 2007 - 2009 - Salesforce + Java developer, financial accounting applications
 - **Serco**, 2006 - 2007 - software developer: J2EE web services, ColdFusion web applications, Oracle
 
 ## Certinia

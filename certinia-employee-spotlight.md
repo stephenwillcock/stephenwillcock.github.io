@@ -7,7 +7,7 @@ title: "Employee Spotlight: Stephen Willcock chats development innovation, the S
 
 ## Employee Spotlight: Stephen Willcock chats development innovation, the Salesforce platform, and having his dream job
 
-_By Sarah Johansen. Originally published on the Certinia blog, 19 July 2018. Certinia has since removed the post; this copy is taken from the [Wayback Machine archive](https://web.archive.org/web/20240421175957/https://certinia.com/blog/employee-spotlight-stephen-willcock-chats-development-innovation-salesforce-platform-dream-job/)._
+_By Sarah Johansen. Originally published on the Certinia blog, 19 July 2018. Archived copy: [Wayback Machine](https://web.archive.org/web/20240421175957/https://certinia.com/blog/employee-spotlight-stephen-willcock-chats-development-innovation-salesforce-platform-dream-job/)._
 
 Welcome to the Certinia Employee Spotlight Series! Here we highlight the many employees that help drive success of the company – across departments, offices, and the globe. These are the faces of Certinia.
 

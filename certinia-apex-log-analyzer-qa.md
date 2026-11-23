@@ -7,7 +7,7 @@ title: "Q&A: Stephen Willcock talks Apex Log Analyzer and making developers' liv
 
 ## Q&A: Stephen Willcock talks Apex Log Analyzer and making developers' lives easier
 
-_By Sarah Johansen. Originally published on the Certinia blog, 22 January 2021. Certinia has since removed the post; this copy is taken from the [Wayback Machine archive](https://web.archive.org/web/20240421172447/https://certinia.com/blog/qa-stephen-willcock-talks-apex-log-analyzer-and-making-developers-lives-easier/)._
+_By Sarah Johansen. Originally published on the Certinia blog, 22 January 2021. Archived copy: [Wayback Machine](https://web.archive.org/web/20240421172447/https://certinia.com/blog/qa-stephen-willcock-talks-apex-log-analyzer-and-making-developers-lives-easier/)._
 
 Certinia Chief Architect, Stephen Willcock, and his team recently built and introduced the Apex Log Analyzer, a tool designed to help developers understand logs faster and quickly find code issues. While initially built for internal use, it was released last month in partnership with Salesforce and you can install the extension from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=financialforce.lana).
 
